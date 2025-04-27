@@ -17,6 +17,7 @@ Este bootcamp é **oferecido pela DIO (Digital Innovation One)**, uma plataforma
     - [🚀 **Dominando o Databricks**](#-dominando-o-databricks)
     - [🛠️ **Implementação de Fabric e DevOps**](#️-implementação-de-fabric-e-devops)
   - [💡 Insights Relevantes para a Área](#-insights-relevantes-para-a-área)
+  - [⏰ Total de Horas](#-total-de-horas)
   - [🎓 Certificação](#-certificação)
 
 ## Sobre o Bootcamp
@@ -27,7 +28,6 @@ Ao longo do programa, os participantes exploram os fundamentos do **Azure**, imp
 
 A **DIO (Digital Innovation One)** oferece esse bootcamp com o intuito de preparar os profissionais para os desafios do mercado de tecnologia, com aprendizado hands-on e acesso a conteúdos relevantes e atualizados.
 
----
 
 ## Conteúdo do Bootcamp
 
@@ -48,7 +48,6 @@ A **DIO (Digital Innovation One)** oferece esse bootcamp com o intuito de prepar
 7. **[Criando um Monitoramento de Custos no Data Factory](#)**
    - **Tipo**: Desafio de projeto | **Nível**: Intermediário | **Duração**: 1 hora
 
----
 
 ### 🔧 **Explorando os Recursos do Azure**
 
@@ -67,7 +66,6 @@ A **DIO (Digital Innovation One)** oferece esse bootcamp com o intuito de prepar
 7. **[Criando Processos de Redundância de Arquivos na Azure](#)**
    - **Tipo**: Desafio de projeto | **Nível**: Intermediário | **Duração**: 2 horas
 
----
 
 ### 🚀 **Dominando o Databricks**
 
@@ -80,7 +78,6 @@ A **DIO (Digital Innovation One)** oferece esse bootcamp com o intuito de prepar
 4. **[Microsoft AI for Tech - Azure Databricks: Desenvolvendo e Gerenciando Pipelines no Azure Databricks](#)**
    - **Tipo**: Mentoria (Live) | **Mentor**: Luiz Santana (MVP Microsoft) | **Duração**: 2 horas
 
----
 
 ### 🛠️ **Implementação de Fabric e DevOps**
 
@@ -94,10 +91,7 @@ A **DIO (Digital Innovation One)** oferece esse bootcamp com o intuito de prepar
    - **Tipo**: Mentoria (Live) | **Mentor**: Luiz Santana (MVP Microsoft) | **Duração**: 1 hora
 5. **[Github e Azure Devops para Versionamento e Backups](#)**
    - **Tipo**: Desafio de projeto | **Nível**: Intermediário | **Duração**: 2 horas
-6. **[Avalie este Bootcamp 2025](#)**
-   - **Tipo**: Curso | **Duração**: 1 hora
 
----
 
 ## 💡 Insights Relevantes para a Área
 
@@ -112,14 +106,13 @@ Ao concluir o bootcamp, os participantes estarão capacitados para:
 
 Essas habilidades são essenciais para qualquer profissional que deseje atuar no desenvolvimento de soluções modernas de dados, como **Data Lakes**, **Data Warehouses**, e integração de dados em tempo real.
 
----
+## ⏰ Total de Horas
+O bootcamp Microsoft AI for Tech - Azure Databricks possui um total de 30 horas de conteúdo distribuído entre cursos, desafios de código, desafios de projeto e mentorias.
 
 ## 🎓 Certificação
 
-Ao concluir o bootcamp, você receberá um **certificado de conclusão** para validar suas habilidades adquiridas durante o treinamento.
+Ao concluir o bootcamp, recebi um **certificado de conclusão** para validar minhas habilidades adquiridas durante o treinamento.
 
-- [Clique aqui para acessar o certificado](#)
+- [Clique aqui para acessar o certificado](https://www.dio.me/certificate/V6VLUDDB/share)
 
----
 
-Este bootcamp não só oferece conhecimento técnico, mas também prepara os profissionais para resolver problemas reais em ambientes de nuvem e dados. Se você está buscando um profissional altamente capacitado, com conhecimento sólido em **Azure**, **Databricks**, **DevOps**, e **Engenharia de Dados**, os participantes deste bootcamp são as pessoas ideais para a sua equipe!
